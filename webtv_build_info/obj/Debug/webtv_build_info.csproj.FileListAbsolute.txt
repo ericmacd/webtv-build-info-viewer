@@ -1,0 +1,14 @@
+D:\ProjectsMy\WebTVHacking\Client\Tools\webtv_build_info\webtv_build_info\bin\Debug\webtv_build_info.exe.config
+D:\ProjectsMy\WebTVHacking\Client\Tools\webtv_build_info\webtv_build_info\obj\Debug\webtv_build_info.csprojResolveAssemblyReference.cache
+D:\ProjectsMy\WebTVHacking\Client\Tools\webtv_build_info\webtv_build_info\obj\Debug\view\MainWindow.g.cs
+D:\ProjectsMy\WebTVHacking\Client\Tools\webtv_build_info\webtv_build_info\obj\Debug\App.g.cs
+D:\ProjectsMy\WebTVHacking\Client\Tools\webtv_build_info\webtv_build_info\obj\Debug\webtv_build_info_MarkupCompile.cache
+D:\ProjectsMy\WebTVHacking\Client\Tools\webtv_build_info\webtv_build_info\obj\Debug\webtv_build_info_MarkupCompile.lref
+D:\ProjectsMy\WebTVHacking\Client\Tools\webtv_build_info\webtv_build_info\bin\Debug\webtv_build_info.exe
+D:\ProjectsMy\WebTVHacking\Client\Tools\webtv_build_info\webtv_build_info\bin\Debug\webtv_build_info.pdb
+D:\ProjectsMy\WebTVHacking\Client\Tools\webtv_build_info\webtv_build_info\obj\Debug\view\MainWindow.baml
+D:\ProjectsMy\WebTVHacking\Client\Tools\webtv_build_info\webtv_build_info\obj\Debug\webtv_build_info.g.resources
+D:\ProjectsMy\WebTVHacking\Client\Tools\webtv_build_info\webtv_build_info\obj\Debug\webtv_build_info.Properties.Resources.resources
+D:\ProjectsMy\WebTVHacking\Client\Tools\webtv_build_info\webtv_build_info\obj\Debug\webtv_build_info.csproj.GenerateResource.Cache
+D:\ProjectsMy\WebTVHacking\Client\Tools\webtv_build_info\webtv_build_info\obj\Debug\webtv_build_info.exe
+D:\ProjectsMy\WebTVHacking\Client\Tools\webtv_build_info\webtv_build_info\obj\Debug\webtv_build_info.pdb
